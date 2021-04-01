@@ -83,10 +83,10 @@
 | Leetcode | [424. 가장 긴 반복 문자 대체](https://leetcode.com/problems/longest-repeating-character-replacement/)|  |  |  |
 | Leetcode | [122. 주식을 사고 팔기 가장 좋은 시점 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|  |  |  |
 | Leetcode | [406. 키에 따른 대기열 재구성](https://leetcode.com/problems/queue-reconstruction-by-height/)|  |  | ✅ |
-| Leetcode | [621. 태스크 스케줄러](https://leetcode.com/problems/task-scheduler/)|  |  |  |
-| Leetcode | [134. 주유소](https://leetcode.com/problems/gas-station/)|  |  |  |
-| Leetcode | [455. 쿠키 부여](https://leetcode.com/problems/assign-cookies/)|  |  |  |
-| Leetcode | [169. 과반수 엘리먼트](https://leetcode.com/problems/majority-element/)|  |  | ✅ |
+| Leetcode | [621. 태스크 스케줄러](https://leetcode.com/problems/task-scheduler/)| 🔴 |  |  |
+| Leetcode | [134. 주유소](https://leetcode.com/problems/gas-station/)| 🟡 |  |  |
+| Leetcode | [455. 쿠키 부여](https://leetcode.com/problems/assign-cookies/)| 🟢 |  |  |
+| Leetcode | [169. 과반수 엘리먼트](https://leetcode.com/problems/majority-element/)| 🟢 |  | ✅ |
 | Leetcode | [241. 괄호를 삽입하는 여러가지 방법](https://leetcode.com/problems/different-ways-to-add-parentheses/)|  |  |  |
 | Leetcode | [509. 피보나치 수](https://leetcode.com/problems/fibonacci-number/)|  |  |  |
 | Leetcode | [53. 최대 서브 배열](https://leetcode.com/problems/maximum-subarray/)|  |  |  |
