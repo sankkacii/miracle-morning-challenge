@@ -80,7 +80,7 @@
 | Leetcode | [191. 1비트의 개수](https://leetcode.com/problems/number-of-1-bits/)|  |  |  |
 | Leetcode | [239. 최대 슬라이딩 윈도우](https://leetcode.com/problems/sliding-window-maximum/)|  |  |  |
 | Leetcode | [76. 부분 문자열이 포함된 최소 윈도우](https://leetcode.com/problems/minimum-window-substring/)|  |  |  |
-| Leetcode | [424. 가장 긴 반복 문자 대체](https://leetcode.com/problems/longest-repeating-character-replacement/)|  |  |  |
+| Leetcode | [424. 가장 긴 반복 문자 대체](https://leetcode.com/problems/longest-repeating-character-replacement/)|  | 🟡 |  |
 | Leetcode | [122. 주식을 사고 팔기 가장 좋은 시점 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|  | 🟢 |  |
 | Leetcode | [406. 키에 따른 대기열 재구성](https://leetcode.com/problems/queue-reconstruction-by-height/)|  |  | ✅ |
 | Leetcode | [621. 태스크 스케줄러](https://leetcode.com/problems/task-scheduler/)| 🔴 |  |  |
