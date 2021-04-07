@@ -31,7 +31,7 @@
 | 71 | Leetcode | [461. 해밍 거리](https://leetcode.com/problems/hamming-distance/)|  |  |  |
 | 70 | Leetcode | [136. 싱글 넘버](https://leetcode.com/problems/single-number/)|  |  |  |
 | 69 | Leetcode | [240. 2D 행렬 검색 II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|  |  |  |
-| 68 | Leetcode | [167. 두 수의 합 II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|  |  |  |
+| 68 | Leetcode | [167. 두 수의 합 II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|  | 🟢 |  |
 | 67 | Leetcode | [349. 두 배열의 교집합](https://leetcode.com/problems/intersection-of-two-arrays/)|  |  |  |
 | 66 | Leetcode | [33. 회전 정렬된 배열 검색](https://leetcode.com/problems/search-in-rotated-sorted-array/)|  |  |  |
 | 65 | Leetcode | [704. 이진 검색](https://leetcode.com/problems/binary-search/)|  |  |  |
