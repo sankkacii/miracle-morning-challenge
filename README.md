@@ -6,10 +6,10 @@
 | :-: | :----------: | -------------------------------------------------------------------------------------------------------------------------------------- | :--: | :--: | :--: |
 | 95  | 프로그래머스 | [17676. 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)                                                         |      |      |      |
 | 94  | 프로그래머스 | [17679. 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)                                                         |      |      |      |
-| 93  | 프로그래머스 | [17677. 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)                                                     | 🟢 |  🟢  |  🟡  |
+| 93  | 프로그래머스 | [17677. 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)                                                     |  🟢  |  🟢  |  🟡  |
 | 92  | 프로그래머스 | [17678. 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)                                                            |  🟢  |      |  🟢  |
 | 91  | 프로그래머스 | [17680. 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)                                                                |  🟢  |  🟢  |  🟢  |
-| 90  | 프로그래머스 | [17682. 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)                                                           |  🟢  |      |      |
+| 90  | 프로그래머스 | [17682. 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)                                                           |  🟢  |      |  🟢  |
 | 89  | 프로그래머스 | [17681. 비밀 지도](https://programmers.co.kr/learn/courses/30/lessons/17681)                                                           |  🟢  |  🟢  |  🟢  |
 | 88  |   Leetcode   | [198. 집 도둑](https://leetcode.com/problems/house-robber/)                                                                            |  🟢  |  🟢  |  🟢  |
 | 87  |   Leetcode   | [70. 계단 오르기](https://leetcode.com/problems/climbing-stairs/)                                                                      |  🟢  |  🟢  |  🟢  |
