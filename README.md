@@ -28,8 +28,8 @@
 | 74  |   Leetcode   | [191. 1비트의 개수](https://leetcode.com/problems/number-of-1-bits/)                                                                   |      |      |      |
 | 73  |   Leetcode   | [393. UTF-8 검증](https://leetcode.com/problems/utf-8-validation/)                                                                     |      |      |      |
 | 72  |   Leetcode   | [371. 두 정수의 합](https://leetcode.com/problems/sum-of-two-integers/)                                                                |      |      |      |
-| 71  |   Leetcode   | [461. 해밍 거리](https://leetcode.com/problems/hamming-distance/)                                                                      |      |      |      |
-| 70  |   Leetcode   | [136. 싱글 넘버](https://leetcode.com/problems/single-number/)                                                                         |      |      |      |
+| 71  |   Leetcode   | [461. 해밍 거리](https://leetcode.com/problems/hamming-distance/)                                                                      | 🟢 |      |      |
+| 70  |   Leetcode   | [136. 싱글 넘버](https://leetcode.com/problems/single-number/)                                                                         | 🔴 |      |      |
 | 69  |   Leetcode   | [240. 2D 행렬 검색 II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                                                           |      |      |      |
 | 68  |   Leetcode   | [167. 두 수의 합 II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                  |      |  🟢  |      |
 | 67  |   Leetcode   | [349. 두 배열의 교집합](https://leetcode.com/problems/intersection-of-two-arrays/)                                                     |      |      |      |
