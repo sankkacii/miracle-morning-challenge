@@ -20,7 +20,7 @@
 | 82  |   Leetcode   | [455. 쿠키 부여](https://leetcode.com/problems/assign-cookies/)                                                                        |  🟢  |  🟢  |      |
 | 81  |   Leetcode   | [134. 주유소](https://leetcode.com/problems/gas-station/)                                                                              |  🟡  |      |      |
 | 80  |   Leetcode   | [621. 태스크 스케줄러](https://leetcode.com/problems/task-scheduler/)                                                                  |  🔴  |      |      |
-| 79  |   Leetcode   | [406. 키에 따른 대기열 재구성](https://leetcode.com/problems/queue-reconstruction-by-height/)                                          |      |  🟢  |  🟢  |
+| 79  |   Leetcode   | [406. 키에 따른 대기열 재구성](https://leetcode.com/problems/queue-reconstruction-by-height/)                                          | 🟡 |  🟢  |  🟢  |
 | 78  |   Leetcode   | [122. 주식을 사고 팔기 가장 좋은 시점 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                           |      |  🟢  |      |
 | 77  |   Leetcode   | [424. 가장 긴 반복 문자 대체](https://leetcode.com/problems/longest-repeating-character-replacement/)                                  |      |  🟡  |      |
 | 76  |   Leetcode   | [76. 부분 문자열이 포함된 최소 윈도우](https://leetcode.com/problems/minimum-window-substring/)                                        |      |      |      |
